@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# ModBuddy Solution File, Format Version 12.00
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "10xPantheon", "10xPantheon\10xPantheon.civ6proj", "{0C7A5070-D469-4F0C-9DBB-A4AF67BF704A}"
+EndProject
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "5xPantheon", "5xPantheon\5xPantheon.civ6proj", "{0C7A5070-D469-4F0C-9DBB-A4AF67BF704B}"
+EndProject
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "3xPantheon", "3xPantheon\3xPantheon.civ6proj", "{F8C1D125-BD34-4F8F-A1F4-9E9BEB89843E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Civ6 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7A5070-D469-4F0C-9DBB-A4AF67BF704A}.Default|Civ6.ActiveCfg = Default|Civ6
+		{0C7A5070-D469-4F0C-9DBB-A4AF67BF704A}.Default|Civ6.Build.0 = Default|Civ6
+		{0C7A5070-D469-4F0C-9DBB-A4AF67BF704B}.Default|Civ6.ActiveCfg = Default|Civ6
+		{0C7A5070-D469-4F0C-9DBB-A4AF67BF704B}.Default|Civ6.Build.0 = Default|Civ6
+		{F8C1D125-BD34-4F8F-A1F4-9E9BEB89843E}.Default|Civ6.ActiveCfg = Default|Civ6
+		{F8C1D125-BD34-4F8F-A1F4-9E9BEB89843E}.Default|Civ6.Build.0 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
